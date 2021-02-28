@@ -2,6 +2,8 @@
 
 Currently studying `Computing Science` at [University of Aberdeen](https://www.abdn.ac.uk/) 🇬🇧
 
+🔎 [Check out my Gists](https://gist.github.com/zsoltkebel)
+
 I feel comfortable writing code 👨🏻‍💻 in:
 ```
 Dart, Python, Java, C, Swift, SwiftUI, (any other language in two weeks from now)
