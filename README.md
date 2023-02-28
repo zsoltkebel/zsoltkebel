@@ -1,10 +1,28 @@
-### `<Hello World!>`
+# Welcome to my ✨ safe space ✨
 
-Currently studying `Computing Science` at [University of Aberdeen](https://www.abdn.ac.uk/) 🇬🇧
+I am a student at the [University of Aberdeen](https://www.abdn.ac.uk/) in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+- Currently mostly working on an indoor navigation system under the repo: https://github.com/zsoltkebel/atroom-website
+- I am an incoming software developer at UKRI Science and Technology Facilities Council starting in July 2023.
 
 🔎  [Check out my Gists](https://gist.github.com/zsoltkebel)
 
-🧮 [Linear Algebra Notes](https://zsoltkebel-uni.notion.site/MA2508-Linear-Algebra-II-86a6bb6c9250445e869d5a737cc14685)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsoltkebel&show_icons=true&theme=react)
+
+### My Tech Stack
+
+###### Database 
+[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,mysql)](https://skillicons.dev)
+
+###### Framework
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,next)](https://skillicons.dev)
+
+###### Hosting
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+###### Language
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,dart,c)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
 
 <!--
 **zsoltkebel/zsoltkebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
