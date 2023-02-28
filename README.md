@@ -8,21 +8,29 @@ I am a student at the [University of Aberdeen](https://www.abdn.ac.uk/) in Scotl
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsoltkebel&show_icons=true&theme=react)
 
-### My Tech Stack
+<details open>
+  <summary>
+    <h3>My Tech Stack</h3>
+  </summary>
+  
+  ###### Database 
+  [![My Skills](https://skillicons.dev/icons?i=firebase,gcp,mysql)](https://skillicons.dev)
 
-###### Database 
-[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,mysql)](https://skillicons.dev)
+  ###### Framework
+  [![My Skills](https://skillicons.dev/icons?i=react,flutter,next)](https://skillicons.dev)
 
-###### Framework
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,next)](https://skillicons.dev)
+  ###### Hosting
+  [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-###### Hosting
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+  ###### Language
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,dart,c)](https://skillicons.dev)
 
-###### Language
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,dart,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
+  
+</details>
 
-[![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
+
+
 
 <!--
 **zsoltkebel/zsoltkebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
