@@ -1,34 +1,15 @@
-# Welcome to my ✨ safe space ✨
+## Welcome to my ✨ safe space ✨
 
-I am a student at the [University of Aberdeen](https://www.abdn.ac.uk/) in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
-- Currently mostly working on an indoor navigation system under the repo: https://github.com/zsoltkebel/atroom-website
-- I am an incoming software developer at UKRI Science and Technology Facilities Council starting in July 2023.
+### About Me
+- I'm a software engineer at [ISIS Experiment Controls Group](https://www.isis.stfc.ac.uk/Pages/Experiment-Control.aspx#:~:text=The%20experiment%20controls%20group%20develop,and%20monitored%20on%20ISIS%20beamlines.&text=%E2%80%8B%E2%80%8BThe%20science%20being,recorded%20at%20the%20correct%20time.) 🔬,
+- a student at [University of Aberdeen](https://www.abdn.ac.uk/) 👨‍🎓🏴󠁧󠁢󠁳󠁣󠁴󠁿,
+- and a contributor to [AtRoom]()
 
 🔎  [Check out my Gists](https://gist.github.com/zsoltkebel)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsoltkebel&show_icons=true&theme=react)
-
-<details open>
-  <summary>
-    <h3>My Tech Stack</h3>
-  </summary>
-  
-  ###### Database 
-  [![My Skills](https://skillicons.dev/icons?i=firebase,gcp,mysql)](https://skillicons.dev)
-
-  ###### Framework
-  [![My Skills](https://skillicons.dev/icons?i=react,flutter,next)](https://skillicons.dev)
-
-  ###### Hosting
-  [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-
-  ###### Language
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,dart,c)](https://skillicons.dev)
-
-  [![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
-  
-</details>
-
+-->
 
 
 
