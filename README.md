@@ -1,5 +1,3 @@
-## Welcome to my ✨ safe space ✨
-
 ### About Me
 - I'm a software engineer at [ISIS Experiment Controls Group](https://www.isis.stfc.ac.uk/Pages/Experiment-Control.aspx#:~:text=The%20experiment%20controls%20group%20develop,and%20monitored%20on%20ISIS%20beamlines.&text=%E2%80%8B%E2%80%8BThe%20science%20being,recorded%20at%20the%20correct%20time.) 🔬,
 - a student at [University of Aberdeen](https://www.abdn.ac.uk/) 👨‍🎓🏴󠁧󠁢󠁳󠁣󠁴󠁿,
