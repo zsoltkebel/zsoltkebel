@@ -1,7 +1,7 @@
 ### About Me
-- I'm a software engineer at [ISIS Experiment Controls Group](https://www.isis.stfc.ac.uk/Pages/Experiment-Control.aspx#:~:text=The%20experiment%20controls%20group%20develop,and%20monitored%20on%20ISIS%20beamlines.&text=%E2%80%8B%E2%80%8BThe%20science%20being,recorded%20at%20the%20correct%20time.) 🔬,
-- a student at [University of Aberdeen](https://www.abdn.ac.uk/) 👨‍🎓🏴󠁧󠁢󠁳󠁣󠁴󠁿,
-- and a contributor to [AtRoom]()
+- I'm a student at [University of Aberdeen](https://www.abdn.ac.uk/) 👨‍🎓🏴󠁧󠁢󠁳󠁣󠁴󠁿,
+- a developer of [AtRoom](),
+- and I was a software engineer at [ISIS Experiment Controls Group](https://www.isis.stfc.ac.uk/Pages/Experiment-Control.aspx#:~:text=The%20experiment%20controls%20group%20develop,and%20monitored%20on%20ISIS%20beamlines.&text=%E2%80%8B%E2%80%8BThe%20science%20being,recorded%20at%20the%20correct%20time.) 🔬,
 
 🔎  [Check out my Gists](https://gist.github.com/zsoltkebel)
 
